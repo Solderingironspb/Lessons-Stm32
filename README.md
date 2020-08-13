@@ -1,2 +1,3 @@
 # Lessons-Stm32
-https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
+STM32. UART, DMA, IT. Отправка данных. Практика. (Урок 6)
+https://youtu.be/9j-9PoBIlkA
