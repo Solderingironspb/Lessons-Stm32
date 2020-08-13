@@ -1,2 +1,3 @@
 # Lessons-Stm32
-https://www.youtube.com/playlist?list=PLg-TCzdMe89bcte_r1NWgIocbGWdRq3DG
+STM32. АЦП на практике. DMA, прерывания. Переходим с Arduino на STM32.
+https://youtu.be/ZEdIQvwIpaM
