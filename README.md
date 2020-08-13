@@ -21,16 +21,16 @@
 Материалы из урока: отсутствуют.
 - ***Урок 4.*** Видео: [PWM на практике. Проверяем себя осциллографом.](https://youtu.be/ZEdIQvwIpaM)
 ###
-Материалы из урока: [Lesson_4](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_4)
+Материалы из урока: [Lesson_4](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_4) **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_4.zip)**
 - ***Урок 5.*** Видео: [АЦП на практике. DMA, прерывания.](https://youtu.be/4DPMhs-hNMU)
 ###
-Материалы из урока: [Lesson_5](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_5)
+Материалы из урока: [Lesson_5](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_5) **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_5.zip)**
 - ***Урок 6.*** Видео: [UART, DMA, IT. Отправка данных. Практика.](https://youtu.be/9j-9PoBIlkA)
 ###
-Материалы из урока: [Lesson_6](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_6)
-- ***Урок 7.*** Видео: [UART, Прием данных, не зная размера данных. Работа с прерываниями.](https://youtu.be/8dO7s2SFmyE)
+Материалы из урока: [Lesson_6](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_6) **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_6.zip)**
+- ***Урок 7.*** Видео: [UART, Прием данных, не зная размера данных. Работа с прерываниями.](https://youtu.be/8dO7s2SFmyE) 
 ###
-Материалы из урока: [Lesson_7](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_7)
+Материалы из урока: [Lesson_7](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_7) **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_7.zip)**
 ###
  
 ***
