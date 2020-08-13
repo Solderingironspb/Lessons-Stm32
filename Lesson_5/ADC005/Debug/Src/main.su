@@ -1,0 +1,4 @@
+main.c:64:6:HAL_ADC_ConvCpltCallback	16	static
+main.c:136:6:SystemClock_Config	88	static
+main.c:78:5:main	32	static
+main.c:260:6:Error_Handler	0	static
