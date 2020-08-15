@@ -30,6 +30,9 @@
 - ***Урок 7.*** Видео: [UART, Прием данных, не зная размера данных. Работа с прерываниями.](https://youtu.be/8dO7s2SFmyE) 
 ###
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_7)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_7.zip)**
+- ***Урок 8.*** Видео: [STM32. SWO. Доделываем китайский ST_LINK/V2. Используем SWV для отладки. ](https://youtu.be/NYWTS3dhKJM) 
+###
+Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_8)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_8.zip)**
 ###
  
 ***
