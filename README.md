@@ -18,4 +18,6 @@
 Я очень долго тупил, как оно должно работать, пока не понял, что 1 контакт - это не питание с программатора на отладочную плату, а наоборот питание с отладочной платы на программатор. Отладочную плату можете запитать отдельно. Например через USB. (Это Вам даст ровные 3.3v на плате. От чего с АЦП будет работать одно удовольствие.)
 **[[Документация на оригинальный ST-LINK/V2]](https://www.st.com/resource/en/user_manual/dm00026748-stlinkv2-incircuit-debuggerprogrammer-for-stm8-and-stm32-stmicroelectronics.pdf)**
 
+##Ссылки:
+**[[Группа Вконтакте]](https://vk.com/solderingiron.stm32)**
 **[[Главная страница]](https://github.com/Solderingironspb/Lessons-Stm32/blob/master/README.md)**
