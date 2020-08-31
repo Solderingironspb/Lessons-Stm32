@@ -10,7 +10,8 @@
 ##
 **Список уроков:**
 
-- ***Урок 0.*** Видео: [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0) 
+- ***Урок 0.*** Видео: [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
+Материалы из урока: **[[Инструкция]](https://github.com/Solderingironspb/Lessons-Stm32/blob/Lesson_0/Lesson_0/README.md)**
 ###
 - ***Урок 1.*** Видео: [Примеры. Blink, аналог millis(), работа с регистрами](https://youtu.be/wvOIsZvOJIk)
 ###
