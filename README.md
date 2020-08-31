@@ -32,7 +32,7 @@
 ###
 - [Atollic TrueStudio](https://atollic.com/resources/download/) 
 ###
-- [64-bit Java for Windows](https://www.java.com/en/download/windows-64bit.jsp/)
+- [64-bit Java for Windows](https://www.java.com/en/download/windows-64bit.jsp)
 
 
 
