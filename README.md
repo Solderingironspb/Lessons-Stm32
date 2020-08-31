@@ -24,5 +24,14 @@
 ###
 - [Группа Вконтакте](https://vk.com/solderingiron.stm32) 
 ###
+- [CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 
+###
+- [STM32 ST-LINK utility](https://www.st.com/en/development-tools/stsw-link004.html)
+###
+- [CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html) 
+###
+- [Atollic TrueStudio](https://atollic.com/resources/download/) 
+
+
 
 **[[Главная страница]](https://github.com/Solderingironspb/Lessons-Stm32/blob/master/README.md)**
