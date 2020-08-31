@@ -31,6 +31,8 @@
 - [CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html) 
 ###
 - [Atollic TrueStudio](https://atollic.com/resources/download/) 
+###
+- [64-bit Java for Windows](https://www.java.com/en/download/windows-64bit.jsp/)
 
 
 
