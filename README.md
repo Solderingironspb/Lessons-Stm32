@@ -42,7 +42,12 @@
 ###
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_9)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_9.zip)**
 ###
- 
+
+**Практика:**
+- ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
+###
+Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
+
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
