@@ -47,6 +47,9 @@
 - ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 ###
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
+- ***8-разрядный модуль дисплея на MAX7219.*** Видео: [8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI.](https://youtu.be/BonEEaQX8vg)
+###
+Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
 
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
