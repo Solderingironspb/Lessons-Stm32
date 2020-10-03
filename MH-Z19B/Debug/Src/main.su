@@ -1,9 +1,0 @@
-core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
-main.c:71:5:_write	32	static
-main.c:80:6:HAL_UART_IDLE_Callback	24	static
-main.c:119:6:HAL_UART_RxCpltCallback	24	static
-main.c:143:5:main	8	static
-main.c:192:6:SystemClock_Config	72	static
-main.c:228:13:MX_USART1_UART_Init	8	static
-main.c:259:13:MX_GPIO_Init	24	static
-main.c:276:6:Error_Handler	4	static
