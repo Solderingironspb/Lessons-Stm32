@@ -1,6 +1,6 @@
-# MH-Z19B. Датчик CO2 (датчик углекислого газа) Практика#00
-![03b6f7](https://user-images.githubusercontent.com/68805120/92999172-9fb21800-f527-11ea-9c89-244f211be76e.jpg)
-Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
+# 8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI. Практика#01
+![maxresdefault](https://user-images.githubusercontent.com/68805120/95000369-dcbe7700-05c8-11eb-9e55-befedee573d4.jpg)
+Видео: [8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI.](https://youtu.be/BonEEaQX8vg)
 ###
-Материалы из практического занятия **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
+Материалы из практического занятия **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
 **[[Главная страница]](https://github.com/Solderingironspb/Lessons-Stm32/blob/master/README.md)**
