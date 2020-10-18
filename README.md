@@ -50,6 +50,9 @@
 - ***8-разрядный модуль дисплея на MAX7219.*** Видео: [8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI.](https://youtu.be/BonEEaQX8vg)
 ###
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
+- ***Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.*** Видео: [STM32. Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.](https://youtu.be/zRNqnhbXJlw)
+###
+Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_EXTI)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_EXTI.zip)**
 
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
