@@ -31,19 +31,9 @@ void max_ds3231_get_time(void) {
 	///Функция запроса данных о времени/
 	///(См. Datasheet DS3231. Cтр.11, табл. 1).
 	///Считываем регистры с 0x00 по 0x06 включительно.
-	///
-	///В main.c нужно создать файлы:
-	///extern uint8_t Seconds = 0;                   //Секунды
-	///extern uint8_t Minutes = 0;                   //Минуты
-	///extern uint8_t Hours = 0;                     //Часы
-	///extern uint8_t Day = 0;                       //День недели
-	///extern uint8_t Date = 0;                      //Дата
-	///extern uint8_t Month = 0;                     //Месяц
-	///extern uint8_t Cuntury = 0;                   //Век
-	///extern uint16_t Year = 0;                     //Год
-	///
-	///В них и будут записываться данные о времени.
-
+	
+	uint8_t tx_buffer = 0x00;
+        uint8_t rx_buffer[7] = { 0, };
 	HAL_I2C_Master_Transmit(&hi2c1, Adress, &tx_buffer, 1, 10);
 	HAL_I2C_Master_Receive(&hi2c1, Adress, rx_buffer, 7, 10);
 
