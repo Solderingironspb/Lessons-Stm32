@@ -7,8 +7,7 @@
 ***Если есть чего предложить, показать - милости просим к нам в команду.***
 ####
 
-##
-**Список уроков:**
+## **Список уроков:**
 
 - ***Урок 0.*** Видео: [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
 ###
@@ -49,8 +48,7 @@
 ###
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_11)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_11.zip)**
 ###
-
-**Практика:**
+## **Практические занятия:**
 - ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 ###
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
