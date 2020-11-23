@@ -45,7 +45,7 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Servo)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Servo.zip)**
 ###
 ## **Библиотеки:**
-- Часы реального времени на микросхеме MAX DS3231
+- Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
