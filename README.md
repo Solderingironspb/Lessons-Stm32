@@ -9,58 +9,41 @@
 
 ## **Список уроков:**
 
-- ***Урок 0.*** Видео: [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
-###
-Материалы из урока: **[[Инструкция]](https://github.com/Solderingironspb/Lessons-Stm32/blob/Lesson_0/Lesson_0/README.md)**
-###
-- ***Урок 1.*** Видео: [Примеры. Blink, аналог millis(), работа с регистрами](https://youtu.be/wvOIsZvOJIk)
-###
-Материалы из урока: ***отсутствуют.*** 
-- ***Урок 2.*** Видео: [Работа с дискретными входами, работа с регистрами. Примеры.](https://youtu.be/Ea-gn5RQTlY)
-###
-Материалы из урока: ***отсутствуют.***
-- ***Урок 3.*** Видео: [Битовые операции. Логические операции.](https://youtu.be/ArH_noDTQLE)
-###
-Материалы из урока: ***отсутствуют.***
-- ***Урок 4.*** Видео: [PWM на практике. Проверяем себя осциллографом.](https://youtu.be/ZEdIQvwIpaM)
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_4)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_4.zip)**
-- ***Урок 5.*** Видео: [АЦП на практике. DMA, прерывания.](https://youtu.be/4DPMhs-hNMU)
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_5)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_5.zip)**
-- ***Урок 6.*** Видео: [UART, DMA, IT. Отправка данных. Практика.](https://youtu.be/9j-9PoBIlkA)
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_6)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_6.zip)**
-- ***Урок 7.*** Видео: [UART, Прием данных, не зная размера данных. Работа с прерываниями.](https://youtu.be/8dO7s2SFmyE) 
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_7)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_7.zip)**
-- ***Урок 8.*** Видео: [Вывод SWO. Доделываем китайский ST_LINK/V2. Используем SWV для отладки. ](https://youtu.be/NYWTS3dhKJM) 
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_8)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_8.zip)**
-- ***Урок 9.*** Видео: [UART, Прием данных, не зная размера данных. UART_IT_IDLE. Работа с прерываниями.](https://youtu.be/2qkGNR6aKGY) 
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_9)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_9.zip)**
-###
-- ***Урок 10.*** Видео: [Как подключить библиотеку? Два способа.](https://youtu.be/WpP4w0iYOY4) 
-###
-Материалы из урока: ***отсутствуют.*** 
-- ***Урок 11.*** Видео: [Работаем с i2c. Блокирующая функция, работа с прерываниями. Часы MAX DS3231](https://youtu.be/Lx17QUAI1yU) 
-###
-Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_11)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_11.zip)**
+### ***Урок 0.*** Видео: [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
+- Материалы из урока: **[[Инструкция]](https://github.com/Solderingironspb/Lessons-Stm32/blob/Lesson_0/Lesson_0/README.md)**
+### ***Урок 1.*** Видео: [Примеры. Blink, аналог millis(), работа с регистрами](https://youtu.be/wvOIsZvOJIk)
+- Материалы из урока: ***отсутствуют.*** 
+### ***Урок 2.*** Видео: [Работа с дискретными входами, работа с регистрами. Примеры.](https://youtu.be/Ea-gn5RQTlY)
+- Материалы из урока: ***отсутствуют.***
+### ***Урок 3.*** Видео: [Битовые операции. Логические операции.](https://youtu.be/ArH_noDTQLE)
+- Материалы из урока: ***отсутствуют.***
+### ***Урок 4.*** Видео: [PWM на практике. Проверяем себя осциллографом.](https://youtu.be/ZEdIQvwIpaM)
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_4)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_4.zip)**
+### ***Урок 5.*** Видео: [АЦП на практике. DMA, прерывания.](https://youtu.be/4DPMhs-hNMU)
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_5)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_5.zip)**
+### ***Урок 6.*** Видео: [UART, DMA, IT. Отправка данных. Практика.](https://youtu.be/9j-9PoBIlkA)
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_6)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_6.zip)**
+### ***Урок 7.*** Видео: [UART, Прием данных, не зная размера данных. Работа с прерываниями.](https://youtu.be/8dO7s2SFmyE) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_7)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_7.zip)**
+### ***Урок 8.*** Видео: [Вывод SWO. Доделываем китайский ST_LINK/V2. Используем SWV для отладки. ](https://youtu.be/NYWTS3dhKJM) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_8)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_8.zip)**
+### ***Урок 9.*** Видео: [UART, Прием данных, не зная размера данных. UART_IT_IDLE. Работа с прерываниями.](https://youtu.be/2qkGNR6aKGY) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_9)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_9.zip)**
+### ***Урок 10.*** Видео: [Как подключить библиотеку? Два способа.](https://youtu.be/WpP4w0iYOY4) 
+- Материалы из урока: ***отсутствуют.*** 
+### ***Урок 11.*** Видео: [Работаем с i2c. Блокирующая функция, работа с прерываниями. Часы MAX DS3231](https://youtu.be/Lx17QUAI1yU) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_11)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_11.zip)**
 ###
 ## **Практические занятия:**
-- ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
+### ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
+### ***8-разрядный модуль дисплея на MAX7219.*** Видео: [8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI.](https://youtu.be/BonEEaQX8vg)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
+### ***Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.*** Видео: [STM32. Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.](https://youtu.be/zRNqnhbXJlw)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_EXTI)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_EXTI.zip)**
+### ***Сервопривод. Принцип работы. Гальваническая развязка. Подключение.*** Видео: [STM32. Сервопривод. Принцип работы. Гальваническая развязка. Подключение.](https://youtu.be/qiOir58Yiwc)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Servo)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Servo.zip)**
 ###
-Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
-- ***8-разрядный модуль дисплея на MAX7219.*** Видео: [8-разрядный модуль дисплея на MAX7219. Подключаем к STM32. Изучаем SPI.](https://youtu.be/BonEEaQX8vg)
-###
-Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
-- ***Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.*** Видео: [STM32. Внешние прерывания EXTI. Подключаем кнопки и инкрементальный энкодер.](https://youtu.be/zRNqnhbXJlw)
-###
-Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_EXTI)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_EXTI.zip)**
-- ***Сервопривод. Принцип работы. Гальваническая развязка. Подключение.*** Видео: [STM32. Сервопривод. Принцип работы. Гальваническая развязка. Подключение.](https://youtu.be/qiOir58Yiwc)
-###
-Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Servo)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Servo.zip)**
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
