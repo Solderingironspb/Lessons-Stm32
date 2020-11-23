@@ -1,0 +1,9 @@
+max_ds3231_lib.c:31:6:max_ds3231_get_time	24	static
+max_ds3231_lib.c:63:6:max_ds3231_get_temperature	40	static
+max_ds3231_lib.c:100:6:max_ds3231_set_seconds	32	static
+max_ds3231_lib.c:123:6:max_ds3231_set_minutes	32	static
+max_ds3231_lib.c:146:6:max_ds3231_set_hours	32	static
+max_ds3231_lib.c:168:6:max_ds3231_set_day	32	static
+max_ds3231_lib.c:188:6:max_ds3231_set_date	32	static
+max_ds3231_lib.c:210:6:max_ds3231_set_month_cuntury	32	static
+max_ds3231_lib.c:239:6:max_ds3231_set_year	32	static
