@@ -23,6 +23,7 @@ uint8_t Cuntury = 0;                   //Век
 uint16_t Year = 0;                     //Год
 float max_ds3231_temp = 0.0f;          //Температура внутреннего датчика
 
+
 /*-------------------------------------Глобальные переменные----------------------------------*/
 
 /*--------------------------------Функция запроса данных о времени----------------------------*/
@@ -31,9 +32,9 @@ void max_ds3231_get_time(void) {
 	///Функция запроса данных о времени/
 	///(См. Datasheet DS3231. Cтр.11, табл. 1).
 	///Считываем регистры с 0x00 по 0x06 включительно.
-	
 	uint8_t tx_buffer = 0x00;
-        uint8_t rx_buffer[7] = { 0, };
+	uint8_t rx_buffer[7] = { 0, };
+
 	HAL_I2C_Master_Transmit(&hi2c1, Adress, &tx_buffer, 1, 10);
 	HAL_I2C_Master_Receive(&hi2c1, Adress, rx_buffer, 7, 10);
 
@@ -47,11 +48,11 @@ void max_ds3231_get_time(void) {
 	Year = 2000 + (rx_buffer[6] >> 4) * 10 + (rx_buffer[6] & 0x0F);
 
 	/*-----------------------Если включена отладка по SWO-------------------------------------*/
-	/*printf("\r\n");
-	 printf("Moscow time:\r\n");
-	 printf("%02d:%02d:%02d\r\n", Hours, Minutes, Seconds);
-	 printf("%02d:%02d:%d\r\n", Date, Month, Year);
-	 printf("Cuntury = %d\r\n", Cuntury);*/
+	printf("\r\n");
+	printf("Moscow time:\r\n");
+	printf("%02d:%02d:%02d\r\n", Hours, Minutes, Seconds);
+	printf("%02d:%02d:%d\r\n", Date, Month, Year);
+	printf("Cuntury = %d\r\n", Cuntury);
 	/*-----------------------Если включена отладка по SWO-------------------------------------*/
 }
 
@@ -88,7 +89,7 @@ void max_ds3231_get_temperature(void) {
 		max_ds3231_temp = (rx_buffer[0] + temp_fractional_part) * (-1);
 	}
 	/*-----------------------Если включена отладка по SWO-------------------------------------*/
-	//printf("Temperature: %.2f\r\n", max_ds3231_temp);
+	printf("Temperature: %.2f\r\n", max_ds3231_temp);
 	/*-----------------------Если включена отладка по SWO-------------------------------------*/
 }
 
@@ -106,7 +107,8 @@ void max_ds3231_set_seconds(uint8_t seconds) {
 	if (seconds < 10) {
 		tx_buffer[1] = seconds % 10;
 	} else if (seconds >= 10 && seconds <= 59) {
-		tx_buffer[1] = (((seconds - (seconds % 10)) / 10) << 4) | (seconds % 10);
+		tx_buffer[1] = (((seconds - (seconds % 10)) / 10) << 4)
+				| (seconds % 10);
 	} else if (seconds > 59) {
 		tx_buffer[1] = 0;
 	}
@@ -128,7 +130,8 @@ void max_ds3231_set_minutes(uint8_t minutes) {
 	if (minutes < 10) {
 		tx_buffer[1] = minutes % 10;
 	} else if (minutes >= 10 && minutes <= 59) {
-		tx_buffer[1] = (((minutes - (minutes % 10)) / 10) << 4) | (minutes % 10);
+		tx_buffer[1] = (((minutes - (minutes % 10)) / 10) << 4)
+				| (minutes % 10);
 	} else if (minutes > 59) {
 		tx_buffer[1] = 0;
 	}
