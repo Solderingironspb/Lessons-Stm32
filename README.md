@@ -43,9 +43,12 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_EXTI)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_EXTI.zip)**
 ### ***Сервопривод. Принцип работы. Гальваническая развязка. Подключение.*** Видео: [STM32. Сервопривод. Принцип работы. Гальваническая развязка. Подключение.](https://youtu.be/qiOir58Yiwc)
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Servo)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Servo.zip)**
+### ***LCD1602/LCD2004. Подключаем к Stm32 по i2c.*** Видео: [LCD1602/LCD2004. Подключаем к Stm32 по i2c.](https://youtu.be/YWlJOK5_ZKs)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
+- LCD1602/LCD2004 на HD44780/подключение по i2c: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
