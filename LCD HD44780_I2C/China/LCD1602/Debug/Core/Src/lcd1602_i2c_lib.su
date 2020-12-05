@@ -1,0 +1,15 @@
+lcd1602_i2c_lib.c:25:13:lcd1602_Send_init_Data	24	static
+lcd1602_i2c_lib.c:43:13:lcd1602_Write_byte	24	static
+lcd1602_i2c_lib.c:51:13:lcd1602_Send_cmd	16	static
+lcd1602_i2c_lib.c:63:13:lcd1602_Send_data_symbol	24	static
+lcd1602_i2c_lib.c:79:13:lcd1602_Send_data	24	static
+lcd1602_i2c_lib.c:97:6:lcd1602_Init	16	static
+lcd1602_i2c_lib.c:162:6:lcd1602_Print_symbol	24	static
+lcd1602_i2c_lib.c:175:6:lcd1602_Print_text	24	static
+lcd1602_i2c_lib.c:189:6:lcd1602_SetCursor	24	static
+lcd1602_i2c_lib.c:219:6:lcd1602_Move_to_the_left	16	static
+lcd1602_i2c_lib.c:232:6:lcd1602_Move_to_the_right	16	static
+lcd1602_i2c_lib.c:246:6:lcd1602_Backlight	16	static
+lcd1602_i2c_lib.c:259:6:lcd1602_Create_symbol	24	static
+lcd1602_i2c_lib.c:269:6:lcd1602_Clean	16	static
+lcd1602_i2c_lib.c:280:6:lcd1602_Clean_Text	8	static
