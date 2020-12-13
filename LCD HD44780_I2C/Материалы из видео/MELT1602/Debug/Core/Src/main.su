@@ -1,5 +1,0 @@
-main.c:127:5:main	24	static
-main.c:173:6:SystemClock_Config	72	static
-main.c:208:13:MX_I2C1_Init	8	static
-main.c:240:13:MX_GPIO_Init	24	static
-main.c:257:6:Error_Handler	4	static,ignoring_inline_asm
