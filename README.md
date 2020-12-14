@@ -45,6 +45,8 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Servo)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Servo.zip)**
 ### ***LCD1602/LCD2004. Подключаем к Stm32 по i2c.*** Видео: [LCD1602/LCD2004. Подключаем к Stm32 по i2c.](https://youtu.be/YWlJOK5_ZKs)
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
+### ***Графический дисплей 128x64 на контроллере ST7920*** Видео: [Графический дисплей на контроллере ST7920. Подключаем к Stm32. Практикуемся с шиной SPI.](https://youtu.be/RuUFxePFrmo)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
