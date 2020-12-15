@@ -31,11 +31,6 @@ uint8_t Frame_buffer[1024] = { 0, }; //Буфер кадра
 uint8_t ST7920_width = 128; //Ширина дисплея в пикселях
 uint8_t ST7920_height = 64; //Высота дисплея в пикселях
 
-uint8_t startRow, startCol, endRow, endCol; // coordinates of the dirty rectangle
-uint8_t numRows = 64;
-uint8_t numCols = 128;
-uint8_t Graphic_Check = 0;
-
 /*-----------------------------------Настройки----------------------------------*/
 
 /*-----------------------------------Шрифт 5*7----------------------------------*/
