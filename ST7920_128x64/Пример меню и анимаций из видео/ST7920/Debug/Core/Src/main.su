@@ -1,9 +1,0 @@
-core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
-main.c:124:5:_write	32	static
-main.c:138:5:main	40	static
-main.c:316:6:SystemClock_Config	72	static
-main.c:351:13:MX_SPI1_Init	8	static
-main.c:387:13:MX_TIM1_Init	32	static
-main.c:427:13:MX_DMA_Init	16	static
-main.c:444:13:MX_GPIO_Init	40	static
-main.c:483:6:Error_Handler	4	static,ignoring_inline_asm
