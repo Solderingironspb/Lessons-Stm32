@@ -49,12 +49,12 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
 ### ***Графический дисплей 128x64 на контроллере ST7920*** Видео: [Графический дисплей на контроллере ST7920. Подключаем к Stm32. Практикуемся с шиной SPI.](https://youtu.be/RuUFxePFrmo)
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
+- Подключаем STM32 к WiFi. Умный дом на STM32. Используем MQTT. **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_MQTT)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_MQTT.zip)**
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
 - LCD1602/LCD2004 на HD44780/подключение по i2c: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
 - Графический дисплей 128x64 на контроллере ST7920: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
-- Подключаем STM32 к WiFi. Умный дом на STM32. Используем MQTT. **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_MQTT)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_MQTT.zip)**
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
