@@ -35,6 +35,8 @@
 - Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_11)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_11.zip)**
 ### ***Урок 12.*** Видео: [Регистр ODR. Как работать с дисплеями по 8/16 битной шине.](https://youtu.be/_HuutC2Qx0Y) 
 - Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_12)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_12.zip)**
+### ***Урок 13.*** Видео: [Замер частоты внешнего сигнала. Двухканальный частотомер.](https://youtu.be/g8KrZZ_vc7w) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Frequency_meter)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Frequency_meter.zip)**
 ###
 ## **Практические занятия:**
 ### ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
