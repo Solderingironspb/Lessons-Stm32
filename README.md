@@ -55,6 +55,8 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
 ### ***Подключаем STM32 к WiFi. Умный дом на STM32. Используем MQTT.*** Видео: [Подключаем STM32 к WiFi. Умный дом на STM32. Используем MQTT. Мой протокол.](https://youtu.be/DlzfYDCvmO0)
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_MQTT)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_MQTT.zip)**
+### ***Моя отладочная плата на STM32F103C8T6. Схема. Пайка.*** Видео: [Моя отладочная плата на STM32F103C8T6. Схема. Пайка.](https://youtu.be/M9-TEp2PCPw)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32F103C8T6_board)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32F103C8T6_board.zip)**
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
