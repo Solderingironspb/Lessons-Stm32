@@ -37,6 +37,8 @@
 - Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_12)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_12.zip)**
 ### ***Урок 13.*** Видео: [Замер частоты внешнего сигнала. Двухканальный частотомер.](https://youtu.be/g8KrZZ_vc7w) 
 - Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Frequency_meter)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Frequency_meter.zip)**
+### ***Урок 14.*** Видео: [Virtual COM Port. О ценах на МК. Что делать дальше?](https://youtu.be/ipsWfXxMgoA) 
+- Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Virtual_Com_Port)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Virtual_Com_Port.zip)**
 ###
 ## **Практические занятия:**
 ### ***Датчик CO2 MH-Z19B.*** Видео: [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
