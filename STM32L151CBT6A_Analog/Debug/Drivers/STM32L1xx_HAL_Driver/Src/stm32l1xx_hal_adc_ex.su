@@ -1,0 +1,8 @@
+stm32l1xx_hal_adc_ex.c:111:19:HAL_ADCEx_InjectedStart	24	static
+stm32l1xx_hal_adc_ex.c:183:19:HAL_ADCEx_InjectedStop	24	static
+stm32l1xx_hal_adc_ex.c:236:19:HAL_ADCEx_InjectedPollForConversion	40	static,ignoring_inline_asm
+stm32l1xx_hal_adc_ex.c:371:19:HAL_ADCEx_InjectedStart_IT	24	static
+stm32l1xx_hal_adc_ex.c:446:19:HAL_ADCEx_InjectedStop_IT	24	static
+stm32l1xx_hal_adc_ex.c:524:10:HAL_ADCEx_InjectedGetValue	24	static
+stm32l1xx_hal_adc_ex.c:559:13:HAL_ADCEx_InjectedConvCpltCallback	16	static
+stm32l1xx_hal_adc_ex.c:601:19:HAL_ADCEx_InjectedConfigChannel	24	static,ignoring_inline_asm

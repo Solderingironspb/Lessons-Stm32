@@ -1,0 +1,10 @@
+core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:85:5:_write	32	static
+main.c:94:6:HAL_ADCEx_InjectedConvCpltCallback	16	static
+main.c:104:7:median	32	static
+main.c:140:5:main	32	static
+main.c:242:6:SystemClock_Config	88	static
+main.c:288:13:MX_ADC1_Init	40	static
+main.c:346:13:MX_SPI1_Init	8	static
+main.c:384:13:MX_GPIO_Init	40	static
+main.c:413:6:Error_Handler	4	static,ignoring_inline_asm
