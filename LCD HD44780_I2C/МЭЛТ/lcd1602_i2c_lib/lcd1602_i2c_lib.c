@@ -341,3 +341,41 @@ void lcd1602_Clean_Text(void) {
 	lcd1602_SetCursor(0, 1);
 	lcd1602_Print_text("                                        ");
 }
+
+/*----------------Функция декодирования UTF-8 в набор символов-----------------*/
+
+void lcd1602_Decode_UTF8(uint16_t x, uint8_t y, char *tx_buffer) {
+	/// Функция декодирования UTF-8 в набор символов и последующее занесение в буфер вывода на дисплей
+	/// \param x - координата по х. От 0 до 19
+	/// \param y - координата по y. от 0 до 3
+	uint16_t symbol = 0;
+	bool flag_block = 0;
+	lcd1602_SetCursor(x, y);
+	for (int i = 0; i < strlen(tx_buffer); i++) {
+		if (tx_buffer[i] < 0xC0) { //Английский текст и символы. Если до русского текста, то [i] <0xD0.
+			if (flag_block) {
+				flag_block = 0;
+			} else {
+				symbol = tx_buffer[i];
+				lcd1602_Print_symbol(symbol);
+			}
+		} else { //Русский текст
+			symbol = tx_buffer[i] << 8 | tx_buffer[i + 1];
+				if (symbol < 0xD180 && symbol > 0xD081) {
+
+				lcd1602_Print_symbol((uint8_t) (symbol - 0xCFD0));//Таблица UTF-8. Кириллица. С буквы "А" до "п".
+			} else if (symbol == 0xD081) {
+				lcd1602_Print_symbol(0xC5);//Таблица UTF-8. Кириллица. Буква "Ё". Отображается Е.
+			}else if (symbol == 0xD191) {
+				lcd1602_Print_symbol(0xE5);//Таблица UTF-8. Кириллица. Буква "ё". Отображается е.
+			}else if (symbol == 0xC2B0) {
+				lcd1602_Print_symbol(0xB0);//Таблица UTF-8. Basic Latin. Символ "°".
+			} else {
+				lcd1602_Print_symbol((uint8_t) (symbol - 0xD090));//Таблица UTF-8. Кириллица. С буквы "р", начинается сдвиг.
+			}
+			flag_block = 1;
+		}
+	}
+}
+
+/*----------------Функция декодирования UTF-8 в набор символов-----------------*/
