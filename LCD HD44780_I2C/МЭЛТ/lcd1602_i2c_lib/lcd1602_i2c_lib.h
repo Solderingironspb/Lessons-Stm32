@@ -24,5 +24,6 @@ void lcd1602_Move_to_the_left(void);
 void lcd1602_Move_to_the_right(void);
 void lcd1602_Create_symbol( uint8_t *my_symbol, uint8_t memory_adress);
 void lcd1602_Clean_Text(void);
+void lcd1602_Decode_UTF8(uint16_t x, uint8_t y, char *tx_buffer);
 
 #endif /* INC_LCD1602_I2C_LIB_H_ */
