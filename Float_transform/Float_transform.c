@@ -14,12 +14,12 @@
 
 /*--------------------------------Переменные для работы-------------------------------------*/
 int integer_number = 0;
-uint16_t fractional_number = 0;
+uint32_t fractional_number = 0;
 /*--------------------------------Переменные для работы-------------------------------------*/
 
 /*--------------------------------Скопировать в main.c--------------------------------------*/
 /*extern int integer_number;
- extern uint16_t fractional_number;*/
+ extern uint32_t fractional_number;*/
 /*--------------------------------Скопировать в main.c--------------------------------------*/
 
 /*============================Пример работы с библиотекой===================================*/
@@ -27,7 +27,7 @@ uint16_t fractional_number = 0;
 /*
  #include "Float_transform.h"
  extern int integer_number;
- extern uint16_t fractional_number;
+ extern uint32_t fractional_number;
 
  float Val = -3.14159265359;
 
@@ -43,7 +43,7 @@ uint16_t fractional_number = 0;
  * integer_number = 25;
  * fractional_number = 13;
  * а вывод должен быть 25.013, поэтому:
- * printf("float = %d.%.03d\r\n", integer_number, fractional_number);
+ * printf("float = %d.%.03ld\r\n", integer_number, fractional_number);
  *
  * Получим вывод: float = 25.013
  *
@@ -51,7 +51,7 @@ uint16_t fractional_number = 0;
 /*============================Пример работы с библиотекой===================================*/
 
 /*--------------------------------Разбитие float с округлением------------------------------*/
-void Float_transform(float value, uint8_t width, int *integer_number, uint16_t *fractional_number) {
+void Float_transform(float value, uint8_t width, int *integer_number, uint32_t *fractional_number) {
 /// Функция разбирия числа float на две части: целую и дробную.
 	/// \param float value - число float, которое хотим разбить
 	/// \param uint8_t width - сколько знаков после запятой хотим выводить
