@@ -15,6 +15,6 @@
 
 #include <main.h>
 
-void Float_transform(float value, uint8_t width, int *integer_number, uint16_t *fractional_number);
+void Float_transform(float value, uint8_t width, int *integer_number, uint32_t *fractional_number);
 
 #endif /* INC_FLOAT_TRANSFORM_H_ */
