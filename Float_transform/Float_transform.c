@@ -56,7 +56,7 @@ void Float_transform(float value, uint8_t width, int *integer_number, uint32_t *
 	/// \param float value - число float, которое хотим разбить
 	/// \param uint8_t width - сколько знаков после запятой хотим выводить
 	/// \param int *integer_number - глобальная переменная для вещественной части
-	/// \param uint16_t *fractional_number - глобальная переменная для дробной части
+	/// \param uint32_t *fractional_number - глобальная переменная для дробной части
 
 	float rounding = 0.05f;
 	uint32_t rounding_2 = 10;
