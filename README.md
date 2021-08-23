@@ -61,6 +61,8 @@
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ADC_Voltmeter_1)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ADC_Voltmeter_1.zip)**
 ### ***Датчики температуры PT100 и PT1000. Подключение к STM32 через MAX31865. ГОСТ 6651-2009*** Видео: [Датчики температуры PT100 и PT1000. Подключение к STM32 через MAX31865. ГОСТ 6651-2009](https://youtu.be/Y0EczfI6f4M)
 - Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX31865)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX31865.zip)**
+### ***Вывод float, не используя -u_printf_float. Экономим память, повышаем скорость.*** Видео: [STM32 - Вывод float, не используя -u_printf_float. Экономим память, повышаем скорость.](https://youtu.be/SRfW3AsPytE)
+- Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
