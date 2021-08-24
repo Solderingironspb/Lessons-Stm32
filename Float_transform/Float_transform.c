@@ -25,7 +25,7 @@ uint32_t fractional_number = 0;
 /*--------------------------------Переменные для работы-------------------------------------*/
 
 /*--------------------------------Скопировать в main.c--------------------------------------*/
-/*extern char sign_number;
+/*extern uint8_t sign_number;
  extern int integer_number;
  extern uint32_t fractional_number;
  */
