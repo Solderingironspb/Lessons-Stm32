@@ -75,22 +75,18 @@ void Float_transform(float value, uint8_t width, uint8_t *sign_number, int *inte
 	/// \param uint32_t *fractional_number - глобальная переменная для дробной части
 	*sign_number = 0;
 	float rounding = 0.5f;
-	uint32_t rounding_2 = 10;
+	uint32_t rounding_2 = 1;
 	if (*((uint32_t*) &value) & 0x80000000) {
 		*((uint32_t*) &value) &= 0x7FFFFFFF;
 		*sign_number = 1;
 	}
-	if (width == 0) {
-		*integer_number = (int) value;
-		*fractional_number = 0;
-	} else if (width >= 1) {
-		for (uint8_t i = 1; i < width; i++) {
-			rounding_2 = rounding_2 * 10;
-		}
-		rounding = rounding / rounding_2;
-		*integer_number = (int) ((float) value + rounding);
-		*fractional_number = (((float) value + rounding) * rounding_2) - (*integer_number * rounding_2);
+	for (uint8_t i = 0; i < width; i++) {
+		rounding_2 = rounding_2 * 10;
 	}
+	rounding = rounding / rounding_2;
+	*integer_number = (int) ((float) value + rounding);
+	*fractional_number = (((float) value + rounding) * rounding_2) - (*integer_number * rounding_2);
+
 }
 /*--------------------------------Разбитие float с округлением------------------------------*/
 
