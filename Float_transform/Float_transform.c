@@ -39,13 +39,13 @@ uint32_t fractional_number = 0;
  extern int integer_number;
  extern uint32_t fractional_number;
 
- float Val = -3.14159265359;
+ float Val = -3.14159265359f;
 
- Float_transform(counter, 4, &sign_number, &integer_number, &fractional_number);
+ Float_transform(Val, 4, &sign_number, &integer_number, &fractional_number);
  if (!sign_number) {
- printf("Counter = %d.%.03ld\r\n", integer_number, fractional_number);
+ printf("Val = %d.%.04ld\r\n", integer_number, fractional_number);
  } else {
- printf("Counter = -%d.%.03ld\r\n", integer_number, fractional_number);
+ printf("Val = -%d.%.04ld\r\n", integer_number, fractional_number);
  }
  */
 //Получим вывод: float = -3.1416
