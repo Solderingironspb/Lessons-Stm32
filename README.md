@@ -71,7 +71,7 @@
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
-``` Пишу в Atollic TrueSTUDIO for STM32 9.3.0. Иногда использую и CubeIDE. ```
+``` Пишу в CubeIDE. ```
 ***
 
 Заходи в нашу группу ВК: https://vk.com/solderingiron.stm32
