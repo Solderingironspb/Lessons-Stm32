@@ -73,7 +73,6 @@
 - ТС PT100/PT1000 через MAX31865: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX31865)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX31865.zip)**
 - Вывод float, не используя -u_printf_float.: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
 - Отладка через Trace Asynchronous Sw. Serial Wire Viewer: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/SWO)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/SWO.zip)**
-- 
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
