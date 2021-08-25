@@ -66,8 +66,13 @@
 ###
 ## **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
+- 8-разрядный модуль дисплея на MAX7219: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
 - LCD1602/LCD2004 на HD44780/подключение по i2c: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
 - Графический дисплей 128x64 на контроллере ST7920: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
+- UART to MQTT. ESP8266 + STM32: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_MQTT)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_MQTT.zip)**
+- ТС PT100/PT1000 через MAX31865: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX31865)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX31865.zip)**
+- Вывод float, не используя -u_printf_float.: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
+
 ***
 ``` Использую для конфигурации CubeMX и библиотеку HAL. ```
 #####
