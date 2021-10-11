@@ -58,7 +58,7 @@ void MAX31865_Init(uint8_t num_wires) {
 	HAL_SPI_Transmit(&hspi1, MAX31865_Configuration_register_write, 2, 100);
 	cs_reset();
 	//Дабы достучаться до датчика после подачи питания, т.к. с первого раза инициализация может и не пройти, заведем цикл.
-	while (MAX31865_Configuration_info() != 0xD1 && MAX31865_Configuration_info() != 0xC1) {
+	while (MAX31865_Configuration_info() != 0xD1 || MAX31865_Configuration_info() != 0xC1) {
 		MAX31865_Reinitialization_cnt++;
 
 		cs_set();
