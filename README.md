@@ -107,7 +107,6 @@ void GMG128640_Draw_triangle_filled(uint16_t x1, uint16_t y1, uint16_t x2, uint1
 ```
 ##
 ###
-##
 
 Материалы из видео **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Practice%2311.zip)**
 **[[Главная страница]](https://github.com/Solderingironspb/Lessons-Stm32/blob/master/README.md)**
