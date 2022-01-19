@@ -118,7 +118,7 @@
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
 ###
 
-**Практика#11** [STM32 - Вывод float, не используя -u_printf_float. Экономим память, повышаем скорость.](https://youtu.be/ajEqZN5s5xc)
+**Практика#11** [Дисплеи ST7920 и GMG12864(ST7565r). Обновление граф. библиотек. Режим плоттера.](https://youtu.be/ajEqZN5s5xc)
 
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Practice%2311)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Practice%2311.zip)**
 ###
