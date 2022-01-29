@@ -72,6 +72,11 @@
 
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Lesson_pointers_in_C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Lesson_pointers_in_C.zip)**
 
+**Урок#16**  [STM32. CRC. Теория. Как считать. Алгоритм. CRC HAL. Аппаратный блок. CRC-8/16/32 бита.](https://youtu.be/YyQonUJrBn4)
+
+Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/CRC_STM32)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/CRC_STM32.zip)**
+
+
 ### **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 
