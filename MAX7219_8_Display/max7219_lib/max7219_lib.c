@@ -455,8 +455,8 @@ void max7219_Send_float(float value) {
 			} else {
 				max7219_num(3, 254);
 			}
-			max7219_num_point(4, BCD_Arr[4]);
-			max7219_num(5, BCD_Arr[3]);
+			max7219_num_point(4, BCD_Arr[3]);
+			max7219_num(5, BCD_Arr[2]);
 			max7219_num(6, BCD_Arr[1]);
 			max7219_num(7, BCD_Arr[0]);
 			max7219_send_symbol(symbol);
@@ -469,7 +469,7 @@ void max7219_Send_float(float value) {
 			} else {
 				max7219_num(3, 254);
 			}
-			max7219_num_point(4, 255);
+			max7219_num_point(4, BCD_Arr[3]);
 			max7219_num(5, BCD_Arr[2]);
 			max7219_num(6, BCD_Arr[1]);
 			max7219_num(7, BCD_Arr[0]);
