@@ -43,9 +43,9 @@ void max7219_Transmit(uint8_t adress, uint8_t data) {
 	uint8_t tx_buffer[1] = { 0 };
 	cs_set();
 	tx_buffer[0] = adress;
-	HAL_SPI_Transmit_IT(&hspi1, tx_buffer, 1);
+	HAL_SPI_Transmit(&hspi1, tx_buffer, 1, 100);
 	tx_buffer[0] = data;
-	HAL_SPI_Transmit_IT(&hspi1, tx_buffer, 1);
+	HAL_SPI_Transmit(&hspi1, tx_buffer, 1, 100);
 	cs_reset();
 }
 /*----------Общение с max7219 по spi-----------------*/
