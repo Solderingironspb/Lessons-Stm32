@@ -3,10 +3,7 @@
 
 Скажу сразу - я не профессионал. Я так же учусь. Надеюсь мои разборы хоть кому-то будут полезны.
 
-*Данный курс нацелен больше на новичков. Тех, кто только-только начинают осваивать 32-битные МК от STMicroelectronics.*
-*Если есть чего предложить, показать - милости просим к нам в команду.*
-
-### **Уроки:**
+### **Уроки для начинающих(HAL):**
 
 **Урок#00** [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
 
@@ -76,6 +73,15 @@
 
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/CRC_STM32)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/CRC_STM32.zip)**
 
+### **Уроки с углубленным изучением(CMSIS):**
+
+**Урок#00** [STM32. CMSIS. Настройка: RCC, GPIO, MCO, SysTick, Delay_ms, аналог HAL_GetTick().](https://youtu.be/TJGE2dxGUDQ)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_0)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_0.zip)**  
+
+**Урок#01** [STM32. CMSIS. Чистый проект на CMSIS, Serial wire JTAG Config., блокировка настроек GPIO.](https://youtu.be/h2sqiUPqFD8)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_1)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_1.zip)**
 
 ### **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
@@ -138,9 +144,9 @@
 - Вывод float, не используя -u_printf_float.: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
 - Отладка через Trace Asynchronous Sw. Serial Wire Viewer: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/SWO)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/SWO.zip)**
 ***
-``` Использую для конфигурации CubeMX и библиотеку HAL. ```
+``` P.S. Для освоения материала, следует смотреть уроки по порядку. ```
 #####
-``` Пишу в CubeIDE. ```
+``` Пишу в CubeIDE/VisualGDB ```
 ***
 
 Заходи в нашу группу ВК: https://vk.com/solderingiron.stm32
