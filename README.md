@@ -72,6 +72,7 @@
 **Урок#16**  [STM32. CRC. Теория. Как считать. Алгоритм. CRC HAL. Аппаратный блок. CRC-8/16/32 бита.](https://youtu.be/YyQonUJrBn4)
 
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/CRC_STM32)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/CRC_STM32.zip)**
+###
 
 ### **Уроки с углубленным изучением(CMSIS):**
 
@@ -133,6 +134,18 @@
 
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Practice%2311)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Practice%2311.zip)**
 ###
+
+**Практика#12** [EEPROM AT24Cxx. Подключаем к STM32. CRC32.](https://youtu.be/tXX-qJ8oWzM)
+
+Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/AT24Cxx)** **[[Скачать]](https://github.com/Solderingironspb/AT24Cxx/archive/refs/heads/main.zip)**
+###
+
+**Практика#13** [SMA Filter(Simple moving average) - Простое скользящее среднее или арифметическое скользящее среднее](https://youtu.be/ewQOJNphGyA)
+
+Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/SMA_filter_lib)** **[[Скачать]](https://github.com/Solderingironspb/SMA_filter_lib/archive/refs/heads/main.zip)**
+###
+
+
 
 ### **Библиотеки:**
 - Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
