@@ -84,6 +84,10 @@
 
 Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_1)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_1.zip)**
 
+**Урок#02** [STM32. CMSIS. Урок#02: Дискретный вход. Внешние прерывания EXTI.](https://youtu.be/8kzIteda2Hw)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_2)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_2.zip)**
+
 ### **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 
