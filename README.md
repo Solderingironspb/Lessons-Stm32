@@ -88,6 +88,10 @@
 
 Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_2)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_2.zip)**
 
+**Урок#03** [STM32. CMSIS. Урок#03: Таймеры общего назначения. Update interrupt,  PWM mode.](https://youtu.be/BkoljtyLLwo)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_3)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_3.zip)**
+
 ### **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 
