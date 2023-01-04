@@ -3,7 +3,7 @@
 
 Скажу сразу - я не профессионал. Я так же учусь. Надеюсь мои разборы хоть кому-то будут полезны.
 
-### **Уроки для начинающих(HAL):**
+# **Уроки для начинающих(HAL):**
 
 **Урок#00** [STM32. C чего начать? Быстрый старт после Arduino](https://youtu.be/kYrOqSpjNe0)
 
@@ -74,7 +74,8 @@
 Материалы из урока: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/CRC_STM32)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/CRC_STM32.zip)**
 ###
 
-### **Уроки с углубленным изучением(CMSIS):**
+
+# **Уроки с углубленным изучением(CMSIS):**
 
 **Урок#00** [STM32. CMSIS. Настройка: RCC, GPIO, MCO, SysTick, Delay_ms, аналог HAL_GetTick().](https://youtu.be/TJGE2dxGUDQ)
 
@@ -96,7 +97,16 @@
 
 Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_4)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_4.zip)**
 
-### **Практические занятия:**
+**Урок#05** [STM32. CMSIS. Урок#05: USART/UART. Отправка и прием. Прерывания.](https://www.youtube.com/watch?v=-icZ4Zv_qB4&feature=youtu.be)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_5)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_5.zip)**
+
+**Урок#06** [STM32. CMSIS. Урок#06: I2C. Теория. Сканер I2C адресов. Отправка и прием данных. MemWrite, MemRead](https://youtu.be/759DReAmhN4)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_6)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_6.zip)**
+
+
+# **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
 
 Материалы из практического занятия: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MH-Z19B)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MH-Z19B.zip)**
@@ -158,16 +168,6 @@
 ###
 
 
-
-### **Библиотеки:**
-- Часы реального времени на микросхеме MAX DS3231: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX_DS3231)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX_DS3231.zip)**
-- 8-разрядный модуль дисплея на MAX7219: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX7219)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX7219.zip)**
-- LCD1602/LCD2004 на HD44780/подключение по i2c: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/HD44780_I2C)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/HD44780_I2C.zip)**
-- Графический дисплей 128x64 на контроллере ST7920: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/ST7920_128x64)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/ST7920_128x64.zip)**
-- UART to MQTT. ESP8266 + STM32: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/STM32_MQTT)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/STM32_MQTT.zip)**
-- ТС PT100/PT1000 через MAX31865: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/MAX31865)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/MAX31865.zip)**
-- Вывод float, не используя -u_printf_float.: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/Float_transform)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/Float_transform.zip)**
-- Отладка через Trace Asynchronous Sw. Serial Wire Viewer: **[[Cмотреть архив]](https://github.com/Solderingironspb/Lessons-Stm32/tree/SWO)** **[[Скачать]](https://github.com/Solderingironspb/Lessons-Stm32/archive/SWO.zip)**
 ***
 ``` P.S. Для освоения материала, следует смотреть уроки по порядку. ```
 #####
