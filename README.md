@@ -105,6 +105,10 @@
 
 Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_6)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_6.zip)**
 
+**Урок#07** [STM32. CMSIS. Урок#07: SPI. Теория. Мастер режим. Отправка и прием данных.](https://youtu.be/08Qb_oDj0lg)
+
+Материалы из урока: **[[Смотреть архив]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/tree/Lesson_7)**  **[[Скачать]](https://github.com/Solderingironspb/STM32F103C8T6_CMSIS_notes/archive/refs/heads/Lesson_7.zip)**
+
 
 # **Практические занятия:**
 **Практика#00** [STM32. MH-Z19B. Датчик CO2 (датчик углекислого газа)](https://youtu.be/N8lKoYhOuvM)
